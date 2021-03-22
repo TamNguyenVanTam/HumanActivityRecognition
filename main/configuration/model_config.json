@@ -1,0 +1,5 @@
+{
+	"input_size": 128,
+	"num_channels": 6,
+	"num_classes": 6
+}
